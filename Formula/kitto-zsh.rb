@@ -1,8 +1,8 @@
 class KittoZsh < Formula
   desc "Backpack of zsh helpers for Mac JS development"
   homepage "https://github.com/mattpilott/kitto-zsh"
-  url "https://github.com/mattpilott/kitto-zsh/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "0212a499b0a917b9fe411c6ccab92dedd36c092f2eaea446ad204779c0c6a543"
+  url "https://github.com/mattpilott/kitto-zsh/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "275b78262e9d7a4861d87f6799b337997a68259cd670e2ee19c1244c33330ed9"
   license "MIT"
 
   def install
